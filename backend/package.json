@@ -109,6 +109,7 @@
     }
   },
     "overrides": {
+        "sha.js": "2.4.12",
         "proxy-addr": "2.0.8",
         "jws": "3.2.3",
         "get-func-name": "2.0.1"
