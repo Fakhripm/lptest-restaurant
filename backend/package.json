@@ -107,5 +107,8 @@
     "hooks": {
       "pre-push": "npm run build"
     }
-  }
+  },
+    "overrides": {
+        "get-func-name": "2.0.1"
+    }
 }
