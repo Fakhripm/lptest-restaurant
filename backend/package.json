@@ -52,7 +52,7 @@
     "rxjs": "^7.2.0",
     "ts-sinon": "^2.0.2",
     "typemoq": "^2.1.0",
-    "typeorm": "^0.3.12",
+    "typeorm": "^0.3.26",
     "zod": "^3.20.2"
   },
   "devDependencies": {
